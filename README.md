@@ -1,7 +1,7 @@
 ### Hi there, I'm Devmiki - visit my website [devmiki.tk][website] 👋
 
 [![Website](https://img.shields.io/website?label=devmiki.tk&style=for-the-badge&url=https%3A%2F%2Fdevmiki.tk)](https://devmiki.tk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Mikitognoni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDeveloperMikitognoni&screen_name=Devmiki)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mikitognoni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDeveloperMikitognoni&screen_name=Mikitognoni)
 
 ## I'm a Student, Developer, Athlete, Arpist and Mountainer!
 
