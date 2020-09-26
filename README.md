@@ -16,6 +16,7 @@
 [<img align="left" alt="devmiki.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mikitognoni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mikitognoni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mikitognoni | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -74,3 +75,4 @@
 [website]: https://devmiki.tk
 [twitter]: https://twitter.com/Mikitognoni
 [instagram]: https://instagram.com/Mikitognoni
+[telegram]: https://t.me/Mikitognoni
